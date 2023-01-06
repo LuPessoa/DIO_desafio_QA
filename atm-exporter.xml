@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>DQ</projectKey>
+    <exportDate>2023-01-05 21:10:36 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="77748447" key="DQ-T5">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Lucilene Pessoa</createdBy>
+            <createdOn>2023-01-05 20:19:36 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Funcinalidade de login]]></name>
+            <owner>63b6d570b790087ed7129c00</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[<p>1 Cliente sem cadastro tenta criar uma conta.</p><p>2 Cliente sem cadastro tenta fazer login.</p> 3 Cliente com cadastro informa dados incorretos de acesso<br /><p><br /></p>]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

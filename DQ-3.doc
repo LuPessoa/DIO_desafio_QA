@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DQ-3] Como usuario desejo acessar a página de compras e adicionar quantidade de cada produto para comprar.
+</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://982297145.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DQ-3]&nbsp;<a href="https://982297145.atlassian.net/browse/DQ-3">Como usuario desejo acessar a página de compras e adicionar quantidade de cada produto para comprar.
+</a>
+            <span class="subText">
+               Created: 05/Jan/23                   &nbsp;Updated: 05/Jan/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://982297145.atlassian.net/secure/BrowseProject.jspa?id=10001">Deasfio QA</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63b6d570b790087ed7129c00"
+                id="word_reporter_63b6d570b790087ed7129c00"
+                href="https://982297145.atlassian.net/secure/ViewProfile.jspa?accountId=63b6d570b790087ed7129c00">
+                    Lucilene Pessoa
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10003-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10003-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10003-value" class="value" bgcolor="#ffffff" width="80%">DQ Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Valor</b>: A visualização da quantidade de itens selecionados de cada produto carrinho é importante para que os clientes possam conferir os produtos escolhidos para prosseguir para finalização da compra. Essa funcionalidade visa facilitar a visualização da quantidade e quais produtos escolhidos, permitindo que o usuário se sinta mais seguro na hora da finalização da compra.</p>
+
+<p> <b>Narrativa do usuário:</b></p>
+
+<p> <b>Como:</b> cliente</p>
+
+<p><b>Eu quero</b>: acessar a página  de compras </p>
+
+<p><b>Para</b>:  visualizar e adicionar e subtrair quantidade do mesmo produto escolhido</p>
+
+<p> <b>Requisitos</b> </p>
+
+<p>● Atores: cliente </p>
+
+<p>● Interface: Ver documento em anexo UI/UX(exemplo de um caso real) </p>
+
+<p>● Dados: </p>
+
+<p>       Criação de banco de dados/ tabelas para armazenar informações da quantidade de itens e quantidade de compra dos clientes cadastrados. </p>
+
+<p>       Criação da API para integração com front e BD.</p>
+
+<p>       Criação de botão para adicionar ou diminuir a quantidade de intens escolhidos. </p>
+
+<p>● Plataforma/Ambiente: </p>
+
+<p>      Web/ Web Mobile </p>
+
+<p>      Devem ser configurados ambientes e pipelines para desenvolvimento. </p>
+
+<p>● Critérios de aceite</p>
+
+<p>   Usuário deverá visualizar o botão de adcionar mais produtos. </p>
+
+<p>   Usuário deverá visualizar o botão de dimninuir a quantidade de produtos</p>
+
+<p>   Usuário deverá visualizar a quantidade de produtos adicionados. </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Thu Jan 05 21:02:44 UTC 2023 by Lucilene Pessoa using Jira 1001.0.0-SNAPSHOT#100213-sha1:fcc00b89f3d5713ca75df484fb20ab1d54da9f2f.
+
+</body>
+</html>

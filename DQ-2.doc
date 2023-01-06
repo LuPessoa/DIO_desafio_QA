@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DQ-2] Como usuario deseja acessar a página de login na tela atual afim de vizualizar opções de login cadastro e definição de senha</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://982297145.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DQ-2]&nbsp;<a href="https://982297145.atlassian.net/browse/DQ-2">Como usuario deseja acessar a página de login na tela atual afim de vizualizar opções de login cadastro e definição de senha</a>
+            <span class="subText">
+               Created: 05/Jan/23                   &nbsp;Updated: 05/Jan/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://982297145.atlassian.net/secure/BrowseProject.jspa?id=10001">Deasfio QA</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63b6d570b790087ed7129c00"
+                id="word_reporter_63b6d570b790087ed7129c00"
+                href="https://982297145.atlassian.net/secure/ViewProfile.jspa?accountId=63b6d570b790087ed7129c00">
+                    Lucilene Pessoa
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63b6d570b790087ed7129c00"
+                id="word_assignee_63b6d570b790087ed7129c00"
+                href="https://982297145.atlassian.net/secure/ViewProfile.jspa?accountId=63b6d570b790087ed7129c00">
+                    Lucilene Pessoa
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%">DQ Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Valor :</b> A autenticação do usuario na loja virtual e importate para o cliente se cadastra na plataforma da loja com segurança e fazer pedidos, essa funcionalidade visa unificar  o fluxo de acesso ao site, permitindo que o usuario possa se cadastrar fazer login ou redefinir senha na loja virtual</p>
+
+<p><b>Narrativa do usuario</b> :</p>
+
+<p><b>Como :</b> Cliente </p>
+
+<p><b>Eu quero:</b> Eu quero acessar página de login do usuario.</p>
+
+<p><b>Para :</b>  Para vizualizar  opções de login cadastro e redefinição de senha da loja virtual.</p>
+
+
+
+<p><b>Requisitos:</b> </p>
+
+<ul>
+	<li>Atores: Clientes</li>
+	<li>Interface: Verificar documentação referente ao design da tela.</li>
+	<li>Dados:</li>
+</ul>
+
+
+<p>           criação de tabelas para ser populadas com registro dos clientes.</p>
+
+<p>           criação de API, para integração do front-end, BD, Backend.</p>
+
+<p>            Criação da tela de formulario de cadastro e redefinição de senha  no front-end.</p>
+
+<ul>
+	<li>Plataformas/Ambientes</li>
+</ul>
+
+
+<p>      Web/Mobile</p>
+
+<p>       Deve ser configurados ambientes e pipelines para desenvolvimento,              homologação de usuario homolação QA e produção.</p>
+
+<ul>
+	<li>Criterios de aceite.</li>
+</ul>
+
+
+<p>    O usuario devera vizualizar formulario para fazer  login e entrar na loja virtual</p>
+
+<p>    O usuario devera vizualizar botão de cadastro de usuario.</p>
+
+<p>    O usuario devere vizualizar o link que possibilite a redefinição de senha.</p>
+
+<p>ou </p>
+
+
+
+<p>Cenario1 - Cliente sem cadastro tenta criar uma conta.</p>
+
+<p>Dado que o cliente esteja na tela de login e não esteja cadastrado no sitema, quando clicar em criar conta, então será redirecionado para uma tela de  criação de nova conta.</p>
+
+<p>Cenario2 - Cliente sem cadastro tenta fazer login.</p>
+
+<p>dado que o usuario esteja na tela de login e digite um usuario não cadastrado, quando clicar em login, então a mensagem surgirá avisando que o usuario não existe.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="63b6d570b790087ed7129c00"
+                id="word_commented_63b6d570b790087ed7129c00"
+                href="https://982297145.atlassian.net/secure/ViewProfile.jspa?accountId=63b6d570b790087ed7129c00">
+                    Lucilene Pessoa
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">05/Jan/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p>se</p>
+        </td></tr>
+            </table>
+Generated at Thu Jan 05 21:03:14 UTC 2023 by Lucilene Pessoa using Jira 1001.0.0-SNAPSHOT#100213-sha1:fcc00b89f3d5713ca75df484fb20ab1d54da9f2f.
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>DQ</projectKey>
+    <exportDate>2023-01-05 21:11:14 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="77747382" key="DQ-T3">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Lucilene Pessoa</createdBy>
+            <createdOn>2023-01-05 19:54:59 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente sem cadastro deseja criar ujma conta]]></name>
+            <objective><![CDATA[Verificar funcionalidade de login]]></objective>
+            <owner>63b6d570b790087ed7129c00</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="bdd">
+                <details><![CDATA[Given cliente esteja na tela de login
+
+And não esteja cadastrado na tela do sitema
+
+When clicar em "Criar conta"
+
+Then sera direcionado para pagina de criação de uma nova conta]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
